@@ -6,3 +6,27 @@ Green: #00B172
 White: #FFF
 
 */
+
+#spotify-logo {
+    height: 50px;
+}
+
+#first-section {
+    background-color: red;
+}
+
+#second-section {
+    background-color: green;
+}
+
+#third-section {
+    background-color: blue;
+}
+
+h1 {
+    background-color: red;
+}
+
+li {
+    display: inline;
+}
